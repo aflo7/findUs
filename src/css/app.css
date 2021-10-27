@@ -1,0 +1,43 @@
+.game-img {
+  
+}
+
+.app-nav-bar {
+  position: fixed;
+  z-index: 10;
+  background-color: navy;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  font-size: 14pt;
+  padding: 5px;
+}
+
+.img-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: gray;
+}
+
+.mini-char-wrapper {
+  display: flex;
+  flex-direction: row;
+}
+
+.top-left-text {
+  height: 50px;
+  line-height: 50px;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.score-text {
+  height: 50px;
+  line-height: 50px;
+  margin-left: 15px;
+  margin-right: 15px;
+
+}
